@@ -40,8 +40,10 @@ www.stellenmarkt.page-online.de/
 www.dasauge.de/jobs/stellenangebote/
 www.creative-city-berlin.de/de/iobs/all/ (incl. Architecture, Fashion,Design and many more)
 Music & Events: www.doorsopen.co/jobs/?q=&l=Berlin%2C+Germany
+
 Architecture:
 stellenboerse.html (Berlin Chamber of Architects)
+
 Fashion & Design
 • www.berlinstartupjobs.com/de/skill-areas/fashion/ (Berlin)
 • www.fashionunited.de/stellenmarkt-der-modebranche (Germany)
@@ -51,3 +53,59 @@ Fashion & Design
 • www.stepstone.de/en/
 • www.jobvector.de/en/jobs/engineering/
 • www.iobs.inqenieur.de/
+
+For the startup and tech industry:
+www.deutsche-startups.de/startups-iobs/stellenanqebote/
+www.iobs-qruenderszene.businessinsider.de/
+www.berlinstartupjobs.com/
+www.wearedevelopers.com/en/jobs
+www.landinq.iobs/
+www.honeypot.io/en/tech-hirinq/
+www.get-in-it.de/
+www.web3.career/web3-jobs-berlin
+www.wellfound.com/iobs
+www.upwork.com/ Quite well functioning platform, especially for
+freelancers. Can be useful to create a profile there
+www.relocate.me/ Actually for classic mobile talents, but also well usable for talents Who are already on site
+www.cryptocurrencyiobs.co/ Some blockchain jobs and Berlin is also there With a few entries
+
+For energy technology and sustainability:
+www.eejobs.de/index.html
+www.greenjobs.de
+www.green-energy-jobs.net/stellenangebote-berlin/
+www.getbaito.de/jobs
+
+For sales positions:
+• www.stellenanzeigen.de/stellenangebote/vertrieb/
+• www.vertriebs-iobs.de
+• www.salesiob.de/
+• www.perm4.com/fuer-kandidaten/perm4-sales/#stellenanqebote
+
+For industrial-technical positions
+Free of charge, as an offer of the state of Berlin: www.jobpoint-berlin.de/job-boerse with various offers to present oneself as an employer (post job offers on/offline, presentation events, trade fairs)
+www.blauesbrett.com/start
+Kleinanzeigen: www.kleinanzeiqen.de/s-iobs/berlin/c10213331
+regional portal:
+www.jobs.meinestadt.de/
+matching tool for technical personnel: www.powerus.de/jobsuche
+
+Reccommended for all positions:
+Free of charge, as it is an offer of the state of Berlin: www.iobpoint-berlin.de/job-boerse
+
+For students and graduates:
+www.jobs.studydrive.net/Berlin
+www.jobteaser.com/en/job-offers
+www.stellenticket.de/ - job boards With internships and entry-level
+positions at various universities throughout Germany
+
+www.jobs.tu-berlin.de/en/job-postings
+www.stellenticket.fu-berlin.de/de/offers/
+www.stellenticket.udk-berlin.de/en/offers/
+https://sfellenticket.hwr-berlin.de/en/offers/
+https://stellenticket.htw-berlin.de/en/job-offers
+https://www.stellenticket-startups.de/de/offers/
+
+To get in touch With Career Services at Berlin and Brandenburg
+universities, you can find an overview and contact details here:
+www.cs-bb.de/careercenter/
+A highly specialized service provider for students, graduates and young experienced talents is: www.youngcapital.de/unternehmen
