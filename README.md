@@ -1,14 +1,13 @@
 <h2>Job boards</h2>
 <h3>For medical and life science professions:</h3>
-www.medi-jobs.de/
-www.medizinerkarriere.de/jobs/medizinische-technische-
-assistenten.html
-www.academics.de/
-www.iobvector.de/iobs-stellenangebote/naturwissenschaften/
-www.t5-karriereportal.de
-Blue collar - from nurse to truck driver - in the primarily German-speaking area: www.heyiobs.co/en-de
++https://medi-jobs.de
++www.medizinerkarriere.de/jobs/medizinische-technische-assistenten.html
++www.academics.de/
++www.jobvector.de/iobs-stellenangebote/naturwissenschaften/
++www.t5-karriereportal.de
++Blue collar - from nurse to truck driver - in the primarily German-speaking area: www.heyiobs.co/en-de
 www.optinoo.com/for-talents
-The GSO does not offer a job portal, but a network designed for scientists: www.qsonet.orq/hiddenchamps/
++The GSO does not offer a job portal, but a network designed for scientists: www.qsonet.orq/hiddenchamps/
 
 <h3>For natural sciences (e.g. biologists / chemists):</h3>
 • www.academics.de/
