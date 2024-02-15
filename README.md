@@ -4,7 +4,7 @@
 
 *   [https://medi-jobs.de](https://medi-jobs.de)
 *   [Medizinerkarriere.de](https://medizinerkarriere.de/jobs/medizinische-technische-assistenten.html)
-*   [www.academics.de]
+*   (www.academics.de)
 *   [www.jobvector.de/iobs-stellenangebote/naturwissenschaften/]
 *   [www.t5-karriereportal.de]
 *   Blue collar - from nurse to truck driver - in the primarily German-speaking area: [www.heyiobs.co/en-de]  
