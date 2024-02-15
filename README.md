@@ -3,7 +3,7 @@
 ## For medical and life science professions:
 
 *   [https://medi-jobs.de](https://medi-jobs.de)
-*   [https://medizinerkarriere.de/jobs/medizinische-technische-assistenten.html]
+*   [Medizinerkarriere.de](https://medizinerkarriere.de/jobs/medizinische-technische-assistenten.html)
 *   [www.academics.de]
 *   [www.jobvector.de/iobs-stellenangebote/naturwissenschaften/]
 *   [www.t5-karriereportal.de]
