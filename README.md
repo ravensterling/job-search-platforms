@@ -3,8 +3,8 @@
 ## For medical and life science professions:
 
 *   [https://medi-jobs.de](https://medi-jobs.de)
-*   www.medizinerkarriere.de/jobs/medizinische-technische-assistenten.html
-*   www.academics.de/
+*   https://medizinerkarriere.de/jobs/medizinische-technische-assistenten.html
+*   academics.de
 *   www.jobvector.de/iobs-stellenangebote/naturwissenschaften/
 *   www.t5-karriereportal.de
 *   Blue collar - from nurse to truck driver - in the primarily German-speaking area: www.heyiobs.co/en-de  
