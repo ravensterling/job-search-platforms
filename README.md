@@ -6,71 +6,71 @@
 *   [https://medizinerkarriere.de/jobs/medizinische-technische-assistenten.html]
 *   [www.academics.de]
 *   [www.jobvector.de/iobs-stellenangebote/naturwissenschaften/]
-*  [ www.t5-karriereportal.de]
+*   [www.t5-karriereportal.de]
 *   Blue collar - from nurse to truck driver - in the primarily German-speaking area: [www.heyiobs.co/en-de]  
     [www.optinoo.com/for-talents]
 *   The GSO does not offer a job portal, but a network designed for scientists: [www.qsonet.orq/hiddenchamps/]
 
 ## For natural sciences (e.g. biologists / chemists):
 
-*   www.academics.de
-*   www.jobvector.de/jobs-stellenangebote/naturwissenschaften
-*   www.t5-karriereportal.de
-*   The GSO does not offer a job portal, but a network designed for scientists: www.gsonet.org/hiddenchamps
+*   [www.academics.de]
+*   [www.jobvector.de/jobs-stellenangebote/naturwissenschaften]
+*   [www.t5-karriereportal.de]
+*   The GSO does not offer a job portal, but a network designed for scientists: [www.gsonet.org/hiddenchamps]
 
 ## For Commercial professions:
 
-*   www.stepstone.de
-*   www.monster.de
-*   www.de.indeed.com/
-*   www.kleinanzeiqen.de/s-jobs/berlin/c10213331
-*   regional portal: www.jobs.meinestadt.de/
+*   [www.stepstone.de]
+*   [www.monster.de]
+*   [www.de.indeed.com/]
+*   [www.kleinanzeiqen.de/s-jobs/berlin/c10213331]
+*   regional portal: [www.jobs.meinestadt.de/]
 
 ## For the games industry:
 
-*   www.games-career.com/
-*   www.iobs.pcgames.de/
+*   [www.games-career.com/]
+*   [www.iobs.pcgames.de/]
 
 ## For hospitality industry:
 
-*   www.dehoga-berlin.de/jobs-in-berlin/
-*   www.hogapage.de/jobs/suche
-*   www.hoga.work/jobs/
-*   www.hoga.jobs/stellenangebote
-*   Blue collar - from nurses to truck drivers - in the primarily German-speaking area: www.heyjobs.co/en-de
+*   [www.dehoga-berlin.de/jobs-in-berlin/]
+*   [www.hogapage.de/jobs/suche]
+*   [www.hoga.work/jobs/]
+*   [www.hoga.jobs/stellenangebote]
+*   Blue collar - from nurses to truck drivers - in the primarily German-speaking area: [www.heyjobs.co/en-de]
 
 ## For the creative industries:
 
-*   www.designmadeingermany.de/jobs/
-*   www.mediengestalter-jobs.de/
-*   www.stellenmarkt.page-online.de/
-*   www.dasauge.de/jobs/stellenangebote/
-*   www.creative-city-berlin.de/de/iobs/all/ (incl. Architecture, Fashion,Design and many more)
-*   Music & Events: www.doorsopen.co/jobs/?q=&l=Berlin%2C+Germany
-*   Architecture: stellenboerse.html (Berlin Chamber of Architects)
+*   [www.designmadeingermany.de/jobs/]
+*   [www.mediengestalter-jobs.de/]
+*   [www.stellenmarkt.page-online.de/]
+*   [www.dasauge.de/jobs/stellenangebote/]
+*   [www.creative-city-berlin.de/de/iobs/all/] (incl. Architecture, Fashion,Design and many more)
+*   Music & Events: [www.doorsopen.co/jobs/?q=&l=Berlin%2C+Germany]
+*   Architecture: [stellenboerse.html] (Berlin Chamber of Architects)
 
 ## Fashion & Design
 
-*   www.berlinstartupjobs.com/de/skill-areas/fashion/ (Berlin)
-*   www.fashionunited.de/stellenmarkt-der-modebranche (Germany)
-*   www.de.fashioniobs.com/ (Germany)
+*   [www.berlinstartupjobs.com/de/skill-areas/fashion] (Berlin)
+*   [www.fashionunited.de/stellenmarkt-der-modebranche] (Germany)
+*   [www.de.fashioniobs.com] (Germany)
 
 ## For the startup and tech industry:
 
-*   www.stepstone.de/en/
-*   www.jobvector.de/en/jobs/engineering/
-*   www.iobs.inqenieur.de/
+*   [www.stepstone.de/en/]
+*   [www.jobvector.de/en/jobs/engineering/]
+*   [www.iobs.inqenieur.de/]
 
 ## For the startup and tech industry:
 
-*   www.deutsche-startups.de/startups-iobs/stellenanqebote/
-*   www.iobs-qruenderszene.businessinsider.de/
-*   www.berlinstartupjobs.com/
-*   www.wearedevelopers.com/en/jobs  
-    www.landinq.iobs/
-*   www.honeypot.io/en/tech-hirinq/
-*   www.get-in-it.de/
-*   www.web3.career/web3-jobs-berlin
+*   [www.deutsche-startups.de/startups-iobs/stellenanqebote/]
+*   [www.iobs-qruenderszene.businessinsider.de/]
+*   [www.berlinstartupjobs.com/]
+*   [www.wearedevelopers.com/en/jobs  ]
+    [www.landinq.iobs/]
+*   [www.honeypot.io/en/tech-hirinq/]
+*   [www.get-in-it.de/]
+*   [www.web3.career/web3-jobs-berlin]
 *   www.wellfound.com/iobs
 *   www.upwork.com/ Quite well functioning platform, especially for freelancers. Can be useful to create a profile there
 *   www.relocate.me/ Actually for classic mobile talents, but also well usable for talents Who are already on site
